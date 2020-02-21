@@ -6,7 +6,7 @@
             <Spanish>Teléfono de infantería</Spanish>
             <German>Gegensprechanlage</German>
             <Japanese>車外電話機</Japanese>
-            <Russian>Телефон пехоты</Russian>
+            <Russian>Телефон піхоти</Russian>
             <Polish>Telefon piechoty</Polish>
             <Chinese>車外對講機</Chinese>
             <Chinesesimp>车外对讲机</Chinesesimp>
@@ -20,7 +20,7 @@
             <Spanish>Dar teléfono de infantería</Spanish>
             <German>Hörer übergeben</German>
             <Japanese>車外電話機を渡す</Japanese>
-            <Russian>Передать телефон пехоты</Russian>
+            <Russian>Передати телефон піхоти</Russian>
             <Polish>Podaj telefon piechoty</Polish>
             <Chinese>轉讓車外對講機</Chinese>
             <Chinesesimp>转让车外对讲机</Chinesesimp>
@@ -34,7 +34,7 @@
             <Spanish>Coger teléfono de infantería %1</Spanish>
             <German>Hörer %1 abnehmen</German>
             <Japanese>車外電話機 %1 を取る</Japanese>
-            <Russian>Взять телефон пехоты %1</Russian>
+            <Russian>Взяти телефон піхоти %1</Russian>
             <Polish>Podnieś telefon piechoty %1</Polish>
             <Chinese>拿起車外對講機%1</Chinese>
             <Chinesesimp>拿起车外对讲机%1</Chinesesimp>
@@ -48,7 +48,7 @@
             <Spanish>Cambiar a %1</Spanish>
             <German>Zu Netzwerk %1 wechseln</German>
             <Japanese>%1 ネットワークに切り替え</Japanese>
-            <Russian>Переключить сеть %1</Russian>
+            <Russian>Переключити мережу %1</Russian>
             <Polish>Przełącz sieć %1</Polish>
             <Chinese>切換通訊網%1</Chinese>
             <Chinesesimp>切换通讯网%1</Chinesesimp>
@@ -62,7 +62,7 @@
             <Spanish>Colgar teléfono de infanteria</Spanish>
             <German>Höhrer aufhängen</German>
             <Japanese>車外電話機を戻す</Japanese>
-            <Russian>Вернуть телефон пехоты</Russian>
+            <Russian>Повернути телефона піхоти</Russian>
             <Polish>Odłóż telefon</Polish>
             <Chinese>放回車外對講機</Chinese>
             <Chinesesimp>放回车外对讲机</Chinesesimp>
@@ -76,7 +76,7 @@
             <Spanish>Llamar al exterior %1</Spanish>
             <German>Läute %1</German>
             <Japanese>%1 を呼び出す</Japanese>
-            <Russian>Начать звонок %1</Russian>
+            <Russian>Зателефонувати %1</Russian>
             <Polish>Zadzwoń %1</Polish>
             <Chinese>開始呼叫 %1</Chinese>
             <Chinesesimp>开始呼叫 %1</Chinesesimp>
@@ -90,7 +90,7 @@
             <Spanish>Dejar de llamar</Spanish>
             <German>Läuten beenden</German>
             <Japanese>呼び出しを止める</Japanese>
-            <Russian>Остановить звонок</Russian>
+            <Russian>Завершити дзвінок</Russian>
             <Polish>Przestań dzwonić</Polish>
             <Chinese>停止呼叫</Chinese>
             <Chinesesimp>停止呼叫</Chinesesimp>
@@ -104,7 +104,7 @@
             <Spanish>Colgar teléfono</Spanish>
             <German>Gegensprechen beendet</German>
             <Japanese>車外電話機を切断しました</Japanese>
-            <Russian>Телефон пехоты был отключен</Russian>
+            <Russian>Телефон піхоти відключений</Russian>
             <Polish>Telefon odłączony</Polish>
             <Chinese>車外對講機已斷開聯繫</Chinese>
             <Chinesesimp>车外对讲机已断开联系</Chinesesimp>
@@ -118,7 +118,7 @@
             <Spanish>Teléfono connectado %1</Spanish>
             <German>Gegensprechen mit %1 begonnen</German>
             <Japanese>車外電話機 %1 に接続しました</Japanese>
-            <Russian>Телефон пехоты подключен %1</Russian>
+            <Russian>Телефон піхоти підключений %1</Russian>
             <Polish>Telefon podłączony %1</Polish>
             <Chinese>車外對講機已連接%1</Chinese>
             <Chinesesimp>车外对讲机已连接%1</Chinesesimp>
@@ -132,7 +132,7 @@
             <Spanish>Recibido teléfono connectado a %1</Spanish>
             <German>Hörer mit Verbindung zu %1 erhalten</German>
             <Japanese>車外電話機 %1 が受信されました</Japanese>
-            <Russian>Получен телефон пехоты %1</Russian>
+            <Russian>Отриманий телефон піхоти %1</Russian>
             <Polish>Odebrano telefon piechoty %1</Polish>
             <Chinese>車外對講機已收到%1</Chinese>
             <Chinesesimp>车外对讲机已收到%1</Chinesesimp>
@@ -146,7 +146,7 @@
             <Spanish>Intercom</Spanish>
             <German>Bordfunk</German>
             <Japanese>インターコム</Japanese>
-            <Russian>Внутренняя связь</Russian>
+            <Russian>Інтерком</Russian>
             <Polish>Interkom</Polish>
             <Chinese>對講機</Chinese>
             <Chinesesimp>对讲机</Chinesesimp>
@@ -166,7 +166,7 @@
             <Italian>Impossibile connettersi all'intercom. Numero massimo di connessioni raggiunto.</Italian>
             <French>Connexion impossible à l'interphone. Nombre maximal de connexions atteint.</French>
             <German>Maximale Anzahl an Verbindungen im Bordfunk erreicht. Verbindung kann nicht hergestellt werden.</German>
-            <Russian>Невозможно подключиться к Интеркому - достигнуто максимальное кол-во подключений</Russian>
+            <Russian>Неможливо підключитися до Інтеркому - досягнуто максимальна к-ть підключень</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_crewIntercom">
             <English>Crew Intercom</English>
@@ -179,7 +179,7 @@
             <Italian>Intercom equipaggio</Italian>
             <French>Équipage d'interphone</French>
             <German>Besatzungsbordfunk</German>
-            <Russian>Интерком экипажа</Russian>
+            <Russian>Інтерком екіпажу</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_shortCrewIntercom">
             <English>Crew</English>
@@ -190,7 +190,7 @@
             <Chinesesimp>机组员</Chinesesimp>
             <French>Équipage</French>
             <German>Besatzung</German>
-            <Russian>Экипаж</Russian>
+            <Russian>Екіпаж</Russian>
             <Japanese>乗員</Japanese>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_passengerIntercom">
@@ -204,7 +204,7 @@
             <Italian>Intercom passeggero</Italian>
             <French>Interphone Pax</French>
             <German>Passagierbordfunk</German>
-            <Russian>Интерком пассажиров</Russian>
+            <Russian>Інтерком пасажирів</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_shortPassengerIntercom">
             <English>Pax</English>
@@ -215,14 +215,14 @@
             <Chinesesimp>乘客</Chinesesimp>
             <French>Pax</French>
             <German>Passagier</German>
-            <Russian>Пассажиры</Russian>
+            <Russian>Пасажири</Russian>
             <Japanese>後部座席</Japanese>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_open">
             <English>Open</English>
             <Czech>Otevřít</Czech>
             <German>Öffnen</German>
-            <Russian>Открыть</Russian>
+            <Russian>Відкрити</Russian>
             <Polish>Otwórz</Polish>
             <Italian>Apri</Italian>
             <Spanish>Abrir</Spanish>
@@ -237,7 +237,7 @@
             <English>Connect</English>
             <German>Verbinden</German>
             <Japanese>接続</Japanese>
-            <Russian>Подключен</Russian>
+            <Russian>Підключений</Russian>
             <Polish>Połącz</Polish>
             <Chinese>連接至</Chinese>
             <Chinesesimp>连接至</Chinesesimp>
@@ -252,7 +252,7 @@
             <Spanish>Desconnectar</Spanish>
             <German>Trennen</German>
             <Japanese>切断</Japanese>
-            <Russian>Отключен</Russian>
+            <Russian>Відключений</Russian>
             <Polish>Rozłącz</Polish>
             <Chinese>斷開聯繫</Chinese>
             <Chinesesimp>断开联系</Chinesesimp>
@@ -273,7 +273,7 @@
             <Polish>Tylko nadawaj</Polish>
             <Italian>Solo trasmissione</Italian>
             <French>Seulement transmettre</French>
-            <Russian>Только передача</Russian>
+            <Russian>Тільки передача</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_recOnly">
             <English>Receive Only</English>
@@ -287,7 +287,7 @@
             <Polish>Tylko nasłuchuj</Polish>
             <Italian>Solo ricezione</Italian>
             <French>Seulement recevoir</French>
-            <Russian>Только прием</Russian>
+            <Russian>Тільки прийом</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_recAndTrans">
             <English>Receive and Transmit</English>
@@ -301,7 +301,7 @@
             <Polish>Nasłuchuj i nadawaj</Polish>
             <Italian>Ricevi e trasmetti</Italian>
             <French>Recevoir et transmettre</French>
-            <Russian>Прием и передача</Russian>
+            <Russian>Прийом та передача</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_mute">
             <English>Mute</English>
@@ -313,7 +313,7 @@
             <Chinesesimp>静音</Chinesesimp>
             <French>Muet</French>
             <German>Stummschalten</German>
-            <Russian>Заглушить</Russian>
+            <Russian>Заглушити</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_startBroadcast">
             <English>Start Broadcast</English>
@@ -325,7 +325,7 @@
             <Chinesesimp>开始广播</Chinesesimp>
             <French>Commencer à diffuser</French>
             <German>Beginne Bordfunkübergreifende Übertragung</German>
-            <Russian>Начать трансляцию</Russian>
+            <Russian>Почати трансляцію</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_stopBroadcast">
             <English>Stop Broadcast</English>
@@ -337,7 +337,7 @@
             <Chinesesimp>停止广播</Chinesesimp>
             <French>Arrêter de diffuser</French>
             <German>Stoppe Bordfunkübergreifende Übertragung</German>
-            <Russian>Остановить трансляцию</Russian>
+            <Russian>Припинити тирансляцію</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_activateAccent">
             <English>Activate Accent</English>
@@ -345,7 +345,7 @@
             <Spanish>Activar prioridad de intercom</Spanish>
             <Japanese>強調を有効化</Japanese>
             <Chinese>啟用強調</Chinese>
-            <Russian>Активировать приоритет</Russian>
+            <Russian>Активувати приорітет</Russian>
             <French>Activer la priorité</French>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_deactivateAccent">
@@ -354,7 +354,7 @@
             <Spanish>Desactivar prioridad de intercom</Spanish>
             <Japanese>強調を無効化化</Japanese>
             <Chinese>禁用強調</Chinese>
-            <Russian>Деактивировать приоритет</Russian>
+            <Russian>Деактивувати приорітет</Russian>
             <French>Désactiver la priorité</French>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_intercomPttKey">
@@ -367,10 +367,11 @@
             <Chinesesimp>无线电按键</Chinesesimp>
             <French>Transmission interphone</French>
             <German>Standard Bordfunksprechtaste</German>
-            <Russian>Передача по Интеркому</Russian>
+            <Russian>Передача по Інтеркому</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_intercomPttKey_description">
             <English>Transmit on intercom station.</English>
+            <Russian>Передавати на станцію Інтеркома</Russian>
             <Spanish>Usa la estación de intercom para hablar.</Spanish>
             <Polish>Mów przez interkom</Polish>
             <Italian>Usa la stazione intercom per parlare.</Italian>
@@ -390,7 +391,7 @@
             <Chinesesimp>无线电广播按键</Chinesesimp>
             <French>Transmission inter-véhicules</French>
             <German>Bordfunkübergreifende Übertragung</German>
-            <Russian>Трансляция с Интеркома</Russian>
+            <Russian>Трансляція з Інтеркома</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_intercomBroadcastKey_description">
             <English>Transmit a priority message on intercom station.</English>
@@ -402,7 +403,7 @@
             <Chinesesimp>使用通讯机台来广播重要讯息</Chinesesimp>
             <French>Utilise le poste d'interphone pour diffuser un message prioritaire.</French>
             <German>Sende Prioritätsmeldung über Bordfunk.</German>
-            <Russian>Передавать важное сообщение на станцию Интеркома</Russian>
+            <Russian>Передати важливе повідомлення на станцію Інтеркома</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_previousIntercomKey">
             <English>Previous Intercom Network</English>
@@ -414,13 +415,13 @@
             <Chinesesimp>上一个通讯网路</Chinesesimp>
             <French>Réseau d'interphonie précédent</French>
             <German>Vorheriges Bordfunknetzwerk auswählen</German>
-            <Russian>Предыдущая сеть Интеркома</Russian>
+            <Russian>Попередня мережа Інтеркома</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_previousIntercomKey_description">
             <English>Connects to the previous Intercom Network. Disconnects from others.</English>
             <Spanish>Red the intercom previa. Desconecta las demás.</Spanish>
             <German>Verbindet mit dem vorheriger Bordfunknetzwerk.</German>
-            <Russian>Подключается к предыдущей сети Интерком. Отключается от остальных.</Russian>
+            <Russian>Підключає до попередньої мережі Інтеркома. Відключається від решти.</Russian>
             <Japanese>前のインターコム ネットに接続します。別のインターコム ネットは切断されます。</Japanese>
             <Chinese>從其他通訊網路斷開。並連接至上一個網路。</Chinese>
             <French>Se connecte au réseau précédent d'interphone. Se déconnecte des autres réseaux.</French>
@@ -435,13 +436,13 @@
             <Chinesesimp>下一个通讯网路</Chinesesimp>
             <French>Réseau d'interphonie suivant</French>
             <German>Nächstes Bordfunknetzwerk auswählen</German>
-            <Russian>Следующая сеть Интеркома</Russian>
+            <Russian>Наступна мережа Інтеркома</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_nextIntercomKey_description">
             <English>Connects to the next Intercom Network. Disconnects from others.</English>
             <Spanish>Siguiente red the intercom. Desconecta las demás.</Spanish>
             <German>Verbindet zu dem nächsten Bordfunknetzwerk.</German>
-            <Russian>Подключает к следующей сети Интеркома. Отключает от остальных</Russian>
+            <Russian>Підключає до наступної мережі Інтеркома. Відключається від решти</Russian>
             <Japanese>次のインターコム ネットに接続します。別のインターコム ネットは切断されます。</Japanese>
             <Chinese>從其他通訊網路斷開。並連接至下一個網路。</Chinese>
             <French>Se connecte au réseau suivant d'interphone. Se déconnecte des autres réseaux.</French>
@@ -456,13 +457,13 @@
             <Chinesesimp>连接至上一个内部通讯网路</Chinesesimp>
             <French>Se connecter au réseau d'interphonie précédent</French>
             <German>Verbinde mit dem vorherigen Bordfunknetzwerk</German>
-            <Russian>Подключиться к предыдущей сети Интеркома</Russian>
+            <Russian>Приєднати попередню мережу Інтеркома</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_addPreviousIntercomKey_description">
             <English>Connects to the previous Intercom Network while keeping the already connected ones.</English>
             <Spanish>Conecta la red the intercom anterior manteniendo las demás.</Spanish>
             <German>Verbindet mit dem vorherigen Bordfunknetzwerk während die bereits verbundenen beibehalten werden.</German>
-            <Russian>Подключает к предыдущей сети Интеркома, сохраняя подключение к текущим</Russian>
+            <Russian>Приєднується попередньої мережі Інтеркома. Решта підключень зберігається.</Russian>
             <Japanese>前のインターコム ネットに既に接続済みのネットを保持したまま接続します。</Japanese>
             <Chinese>維持與其他通訊網路存在的連線。並連接至上一個網路。</Chinese>
             <French>Se connecte au réseau d'interphonie précédent, tout en conservant les réseaux déjà connectés.</French>
@@ -477,13 +478,13 @@
             <Chinesesimp>连接至下一个内部通讯网路</Chinesesimp>
             <French>Se connecter au réseau d'interphonie suivant</French>
             <German>Verbinde nächstes Bordfunknetzwerk</German>
-            <Russian>Подключиться к следующей сети Интеркома</Russian>
+            <Russian>Приєднати наступну мережу Інтеркома</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_intercom_addNextIntercomKey_description">
             <English>Connects to the next Intercom Network while keeping the already connected ones.</English>
             <Spanish>Conecta la siguiente red de intercom manteniendo las demás.</Spanish>
             <German>Verbindet mit dem nächsten Bordfunknetzwerk während die bereits verbundenen Netzwerke beibehalten werden.</German>
-            <Russian>Подключает к след. сети Интеркома,сохраняя подключение к текущим</Russian>
+            <Russian>Приєднується до наступної мережі Інтеркома. Решта підключень зберігається</Russian>
             <Japanese>次のインターコム ネットに既に接続済みのネットを保持したまま接続します。</Japanese>
             <Chinese>維持與其他通訊網路存在的連線。並連接至下一個網路。</Chinese>
             <French>Se connecte au réseau d'interphonie suivant, tout en conservant les réseaux déjà connectés.</French>
@@ -493,7 +494,7 @@
             <Spanish>Abrir la interfaz de Intercom</Spanish>
             <Japanese>インターコムの GUI を開く</Japanese>
             <German>Öffne Bordfunknutzeroberfläche</German>
-            <Russian>Открыть окно Интеркома</Russian>
+            <Russian>Відкрити вікно Інтеркома</Russian>
             <Chinese>開啟對講機界面。</Chinese>
             <French>Ouvrir l'interface graphique de l'interphone</French>
         </Key>
@@ -501,7 +502,7 @@
             <English>Intercom status is being forced. Cannot change configuration.</English>
             <Spanish>La funcionalidad del intercom es forzada. No se puede cambiar la configuración.</Spanish>
             <German>Bordfunkeinstellungen werden erzwungen! Konfiguration kann nicht geändert werden.</German>
-            <Russian>Настройки интеркома применены принудительно. Невозможно изменить конфигурацию</Russian>
+            <Russian>Налаштування Інтеркома застосовані примусово. Неможливо змінити конфігурацію</Russian>
             <Japanese>インターコム状態が強制表示され、設定は変更できません。</Japanese>
             <Chinese>對講機狀態以被強制。無法更改設置。</Chinese>
             <French>L'état de l'interphone est forcé. Impossible de modifier la configuration.</French>

@@ -11,7 +11,7 @@
             <French>Radios</French>
             <Korean>무전기</Korean>
             <Polish>Radia</Polish>
-            <Russian>Рации</Russian>
+            <Russian>Рації</Russian>
             <Chinese>無線電</Chinese>
             <Chinesesimp>无线电</Chinesesimp>
             <Portuguese>Rádios</Portuguese>
@@ -41,7 +41,7 @@
             <French>Baisser le casque</French>
             <Korean>헤드셋 벗기</Korean>
             <Polish>Zdejmij słuchawki</Polish>
-            <Russian>Опустить наушники</Russian>
+            <Russian>Опустити навушники</Russian>
             <Chinese>取下耳機</Chinese>
             <Chinesesimp>取下耳机</Chinesesimp>
             <Portuguese>Abaixar Fones</Portuguese>
@@ -56,7 +56,7 @@
             <French>Mettre le casque</French>
             <Korean>헤드셋 착용</Korean>
             <Polish>Załóż słuchawki</Polish>
-            <Russian>Поднять наушники</Russian>
+            <Russian>Підняти наушники</Russian>
             <Chinese>戴上耳機</Chinese>
             <Chinesesimp>戴上耳机</Chinesesimp>
             <Portuguese>Levantar Fones</Portuguese>
@@ -65,7 +65,7 @@
             <English>Open</English>
             <Czech>Otevřít</Czech>
             <German>Öffnen</German>
-            <Russian>Открыть</Russian>
+            <Russian>Відкрити</Russian>
             <Polish>Otwórz</Polish>
             <Italian>Apri</Italian>
             <Spanish>Abrir</Spanish>
@@ -86,7 +86,7 @@
             <French>Deux oreilles</French>
             <Korean>양쪽 귀</Korean>
             <Polish>Stereo</Polish>
-            <Russian>Оба уха</Russian>
+            <Russian>Обидва вуха</Russian>
             <Chinese>雙耳模式</Chinese>
             <Chinesesimp>双耳模式</Chinesesimp>
             <Portuguese>Ambas Orelhas</Portuguese>
@@ -101,7 +101,7 @@
             <French>Oreille gauche</French>
             <Korean>왼쪽 귀</Korean>
             <Polish>Lewe ucho</Polish>
-            <Russian>Левое ухо</Russian>
+            <Russian>Ліве вухо</Russian>
             <Chinese>左耳模式</Chinese>
             <Chinesesimp>左耳模式</Chinesesimp>
             <Portuguese>Orelha Esquerda</Portuguese>
@@ -116,7 +116,7 @@
             <French>Oreille droite</French>
             <Korean>오른쪽 귀</Korean>
             <Polish>Prawe ucho</Polish>
-            <Russian>Правое ухо</Russian>
+            <Russian>Праве вухо</Russian>
             <Chinese>右耳模式</Chinese>
             <Chinesesimp>右耳模式</Chinesesimp>
             <Portuguese>Orelha Direita</Portuguese>
@@ -131,7 +131,7 @@
             <French>Définir comme active</French>
             <Korean>주 무전기로 설정</Korean>
             <Polish>Ustaw jako aktywne</Polish>
-            <Russian>Сделать активным</Russian>
+            <Russian>Зробити Активним</Russian>
             <Chinese>設為啟用</Chinese>
             <Chinesesimp>设为启用</Chinesesimp>
             <Portuguese>Difinir Como Ativo</Portuguese>
@@ -146,7 +146,7 @@
             <French>Définir PTT</French>
             <Korean>멀티 PTT 설정</Korean>
             <Polish>Ustaw klawisz PTT</Polish>
-            <Russian>Назначить общую ПТТ</Russian>
+            <Russian>Загальні PTT</Russian>
             <Chinese>綁定多個按鍵發話</Chinese>
             <Chinesesimp>绑定多个按键发话</Chinesesimp>
             <Portuguese>Ligar PTT</Portuguese>
@@ -161,7 +161,7 @@
             <French>PTT %1</French>
             <Korean>멀티 PTT %1</Korean>
             <Polish>PTT %1</Polish>
-            <Russian>Общая ПТТ %1</Russian>
+            <Russian>Загальна PTT %1</Russian>
             <Chinese>多個發話 %1</Chinese>
             <Chinesesimp>多个发话 %1</Chinesesimp>
             <Portuguese>PTT %1</Portuguese>
@@ -176,7 +176,7 @@
             <French>Définir comme PTT %1</French>
             <Korean>%1번 PTT로 설정</Korean>
             <Polish>Ustaw PTT %1</Polish>
-            <Russian>Назначить как общую ПТТ %1</Russian>
+            <Russian>Встановити як загальну PTT %1</Russian>
             <Chinese>設定多個發話 %1</Chinese>
             <Chinesesimp>设定多个发话 %1</Chinesesimp>
             <Portuguese>Definir Como PTT %1</Portuguese>
@@ -185,7 +185,7 @@
             <English>Straighten antenna</English>
             <German>Antenne gerade ausrichten</German>
             <Japanese>アンテナを直立に伸ばす</Japanese>
-            <Russian>Выпрямить антенну</Russian>
+            <Russian>Розгорнути антену</Russian>
             <Chinese>把天線拉直</Chinese>
             <French>Redresser l'antenne</French>
         </Key>
@@ -193,7 +193,7 @@
             <English>Bend antenna upwards</English>
             <German>Antenne hoch biegen</German>
             <Japanese>折り曲げたアンテナを上向きに</Japanese>
-            <Russian>Согнуть антенну</Russian>
+            <Russian>Згорнути антену</Russian>
             <Chinese>把天線往上彎曲</Chinese>
             <French>Courber l'antenne vers le haut</French>
         </Key>

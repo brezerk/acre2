@@ -12,7 +12,7 @@
             <Czech>ACRE2 UI</Czech>
             <Italian>ACRE2 IU</Italian>
             <Spanish>ACRE2 Interfaz</Spanish>
-            <Russian>ACRE2 Интерфейс</Russian>
+            <Russian>ACRE2 Інтерфейс</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_core_postmixGlobalVolume_displayName">
             <English>Post-Mix Global Volume</English>
@@ -24,7 +24,7 @@
             <Italian>Volume Globale Post-Mix</Italian>
             <Korean>Post-Mix 전체 음량</Korean>
             <Polish>Głośność Post-Mix</Polish>
-            <Russian>Громкость после смешивания</Russian>
+            <Russian>Гучність голосу після змішування</Russian>
             <Chinese>後期混音 全域音量</Chinese>
             <Chinesesimp>后期混音 全域音量</Chinesesimp>
             <Portuguese>Volume Global Post-Mix</Portuguese>
@@ -39,7 +39,7 @@
             <Italian>Volume Globale Pre-Mix</Italian>
             <Korean>Pre-Mix 전체 음량</Korean>
             <Polish>Głośność Pre-Mix</Polish>
-            <Russian>Громкость перед смешиванием</Russian>
+            <Russian>Гучність перед змішуванням</Russian>
             <Chinese>前期混音 全域音量</Chinese>
             <Chinesesimp>前期混音 全域音量</Chinesesimp>
             <Portuguese>Volume Global Pre-Mix</Portuguese>
@@ -47,7 +47,7 @@
         <Key ID="STR_ACRE_sys_core_defaultRadioVolume_displayName">
             <English>Default Radio Volume</English>
             <German>Standardlautstärke Funkgerät</German>
-            <Russian>Громкость рации по умолчанию</Russian>
+            <Russian>Гучність за замовчуванням</Russian>
             <Japanese>無線音量の標準</Japanese>
             <Chinese>預設無線電音量</Chinese>
             <French>Volume radio par défaut</French>
@@ -62,7 +62,7 @@
             <Italian>Volume Spettatore</Italian>
             <Korean>관전자 음량</Korean>
             <Polish>Głośność jako widz</Polish>
-            <Russian>Громкость спектаторов</Russian>
+            <Russian>Гучність глядачів</Russian>
             <Chinese>觀戰模式音量</Chinese>
             <Chinesesimp>观战模式音量</Chinesesimp>
             <Portuguese>Volume do Espectador</Portuguese>
@@ -77,14 +77,14 @@
             <Italian>Disattiva l'Audio dei Clients</Italian>
             <Korean>클라이언트 음소거 해제</Korean>
             <Polish>Odmutuj klientów</Polish>
-            <Russian>Размьютить клиенты</Russian>
+            <Russian>Увімкнути звук клієнтів</Russian>
             <Chinese>客戶端取消禁音</Chinese>
             <Chinesesimp>客户端取消禁音</Chinesesimp>
             <Portuguese>Desmutar Clientes</Portuguese>
         </Key>
         <Key ID="STR_ACRE_sys_core_ts3ChannelSwitch_displayName">
             <English>TeamSpeak Channel Switch</English>
-            <Russian>Смена ТимСпик канала</Russian>
+            <Russian>Зміна каналу TeamSpeak</Russian>
             <Japanese>TeamSpeak チャンネル切り替え</Japanese>
             <Chinese>Teamspeak頻道切換</Chinese>
             <Chinesesimp>Teamspeak频道切换</Chinesesimp>
@@ -108,7 +108,7 @@
             <Spanish>Nombre de canal de TeamSpeak</Spanish>
             <French>Nom du canal TeamSpeak</French>
             <German>TeamSpeak Kanalname</German>
-            <Russian>Имя ТимСпик канала</Russian>
+            <Russian>Назва каналу TeamSpeak</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_core_ts3ChannelPassword_displayName">
             <English>TeamSpeak Channel Password</English>
@@ -121,7 +121,7 @@
             <Spanish>Contraseña del canal de TeamSpeak</Spanish>
             <French>Mot de passe du canal TeamSpeak</French>
             <German>TeamSpeak Kanalpasswort</German>
-            <Russian>Пароль ТимСпик канала</Russian>
+            <Russian>Пароль каналу TeamSpeak</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_core_disableDesyncHint_displayName">
             <English>Disable Gear Desync Hint</English>
@@ -133,7 +133,7 @@
             <Italian>Disattiva le Notifiche della Desincronizzazione dell'Equipaggiamento</Italian>
             <Korean>장비 디싱크 힌트 해제</Korean>
             <Polish>Wyłącz hinta o desynchro</Polish>
-            <Russian>Выключить подсказку о рассинхронизации инвентаря</Russian>
+            <Russian>Вимкнути підказку про рассинхронизацию інвентаря</Russian>
             <Chinese>關閉裝備不同步提示</Chinese>
             <Chinesesimp>关闭装备不同步提示</Chinesesimp>
             <Portuguese>Desabilitar Dica de Dessincronização do Equipamento</Portuguese>
@@ -148,7 +148,7 @@
             <French>Transmettre sur radio active</French>
             <Korean>기본 무전 단축키</Korean>
             <Polish>Aktywne klawisz nadawania</Polish>
-            <Russian>активное радио кнопка</Russian>
+            <Russian>Тангента активної рації</Russian>
             <Chinese>預設無線電按鍵</Chinese>
             <Chinesesimp>预设无线电按键</Chinesesimp>
             <Portuguese>Tecla Activo do Rádio</Portuguese>
@@ -163,7 +163,7 @@
             <French>Utilise la radio actuellement sélectionnée pour transmettre.</French>
             <Korean>현재 선택한 무전기 사용해 대화하세요.</Korean>
             <Polish>Użyj aktualnie wybranego radia aby nadawać.</Polish>
-            <Russian>Использовать текущее радио для разговора.</Russian>
+            <Russian>Використовувати поточну активну рацію.</Russian>
             <Chinese>使用目前選擇的無線電進行通話。</Chinese>
             <Chinesesimp>使用目前选择的无线电进行通话。</Chinesesimp>
             <Portuguese>Usar o rádio atualmente selecionado para falar.</Portuguese>
@@ -176,7 +176,7 @@
             <Italian>Trasmetti sulla Radio n.1</Italian>
             <French>Transmettre sur radio 1</French>
             <Polish>Klawisz radia 1</Polish>
-            <Russian>радио кнопка 1</Russian>
+            <Russian>Тангента (PTT) рації 1</Russian>
             <Portuguese>Tecla do Rádio 1</Portuguese>
             <Japanese>無線機 1 の送信 (PTT 1)</Japanese>
             <Chinese>無線電 1 發話(隨按即說1)</Chinese>
@@ -191,7 +191,7 @@
             <French>Utilise la première radio de l'inventaire pour transmettre.</French>
             <Korean>인벤토리의 첫 번째에 위치한 무전기를 사용해 대화하세요.</Korean>
             <Polish>Użyj aby nadawać na pierwszym radiu z Twojego ekwipunku.</Polish>
-            <Russian>Использовать первое радио из инвентаря.</Russian>
+            <Russian>Використовувати першу рацію з інвентаря та зробити її активною.</Russian>
             <Chinese>使用物品欄內第一個無線電進行通話。</Chinese>
             <Chinesesimp>使用物品栏内第一个无线电进行通话。</Chinesesimp>
             <Portuguese>Usar o primeiro rádio do inventário para falar.</Portuguese>
@@ -204,7 +204,7 @@
             <Italian>Trasmetti sulla Radio n.2</Italian>
             <French>Transmettre sur radio 2</French>
             <Polish>Klawisz radia 2</Polish>
-            <Russian>радио кнопка 2</Russian>
+            <Russian>Тангента (PTT) рації 2</Russian>
             <Portuguese>Tecla do Rádio 2</Portuguese>
             <Japanese>無線機 2 の送信 (PTT 2)</Japanese>
             <Chinese>無線電 2 發話(隨按即說2)</Chinese>
@@ -219,7 +219,7 @@
             <French>Utilise la seconde radio de l'inventaire pour transmettre.</French>
             <Korean>인벤토리의 두 번째에 위치한 무전기를 사용해 대화하세요.</Korean>
             <Polish>Użyj aby nadawać na drugim radiu z Twojego ekwipunku.</Polish>
-            <Russian>Использовать второе радио из инвентаря.</Russian>
+            <Russian>Використовувати другу рацію з інвентаря та зробити її активною.</Russian>
             <Chinese>使用物品欄內第二個無線電進行通話。</Chinese>
             <Chinesesimp>使用物品栏内第二个无线电进行通话。</Chinesesimp>
             <Portuguese>Usar o segundo rádio do inventário para falar.</Portuguese>
@@ -232,7 +232,7 @@
             <Italian>Trasmetti sulla Radio n.3</Italian>
             <French>Transmettre sur radio 3</French>
             <Polish>Klawisz radia 3</Polish>
-            <Russian>радио кнопка 3</Russian>
+            <Russian>Тангента (PTT) рації 3</Russian>
             <Portuguese>Tecla do Rádio 3</Portuguese>
             <Japanese>無線機 3 の送信 (PTT 3)</Japanese>
             <Chinese>無線電 3 發話(隨按即說3)</Chinese>
@@ -247,7 +247,7 @@
             <French>Utilise la troisième radio de l'inventaire pour transmettre.</French>
             <Korean>인벤토리의 세 번째에 위치한 무전기를 사용해 대화하세요.</Korean>
             <Polish>Użyj aby nadawać na trzecim radiu z Twojego ekwipunku.</Polish>
-            <Russian>Использовать третье радио из инвентаря.</Russian>
+            <Russian>Використовувати третю рацію з інвентаря та зробити її активною.</Russian>
             <Chinese>使用物品欄內第三個無線電進行通話。</Chinese>
             <Chinesesimp>使用物品栏内第三个无线电进行通话。</Chinesesimp>
             <Portuguese>Usar o terceiro rádio do inventário para falar.</Portuguese>
@@ -262,7 +262,7 @@
             <French>Canal précédent (radio active)</French>
             <Korean>이전 채널 (활성화된 무전기)</Korean>
             <Polish>Poprzedni kanał</Polish>
-            <Russian>Предыдущий канал (Активное радио)</Russian>
+            <Russian>Попередній канал (Активна рація)</Russian>
             <Chinese>上一個頻道 (目前使用的無線電)</Chinese>
             <Chinesesimp>上一个频道 (目前使用的无线电)</Chinesesimp>
             <Portuguese>Canal Anterior (Rádio Ativo)</Portuguese>
@@ -277,7 +277,7 @@
             <French>Canal suivant (radio active)</French>
             <Korean>다음 채널 (활성화된 무전기)</Korean>
             <Polish>Następny kanał</Polish>
-            <Russian>Следующий канал (Активное радио)</Russian>
+            <Russian>Наступний канал (Активна рація)</Russian>
             <Chinese>下一個頻道 (目前使用的無線電)</Chinese>
             <Chinesesimp>下一个频道 (目前使用的无线电)</Chinesesimp>
             <Portuguese>Canal Posterior (Rádio Ativo)</Portuguese>
@@ -292,7 +292,7 @@
             <French>Commuter langue Babel</French>
             <Korean>바벨 언어 전환</Korean>
             <Polish>Zmień język (Babel)</Polish>
-            <Russian>Листать язык (Вавилон)</Russian>
+            <Russian>Змінити мову (Babel)</Russian>
             <Chinese>切換模擬多國語言</Chinese>
             <Chinesesimp>切换模拟多国语言</Chinesesimp>
             <Portuguese>Mudar Idioma (Babel)</Portuguese>
@@ -307,7 +307,7 @@
             <French>Radio oreille gauche (radio active)</French>
             <Korean>왼쪽 이어폰</Korean>
             <Polish>Odsłuch tylko na lewym uchu</Polish>
-            <Russian>Радио левое ухо</Russian>
+            <Russian>Ліве вухо (Активна рація)</Russian>
             <Chinese>用左耳收聽無線電</Chinese>
             <Chinesesimp>用左耳收听无线电</Chinesesimp>
             <Portuguese>Rádio Orelha Esquerda</Portuguese>
@@ -322,7 +322,7 @@
             <French>Radio deux oreilles (radio active)</French>
             <Korean>양쪽 이어폰</Korean>
             <Polish>Odsłuch stereo</Polish>
-            <Russian>Радио оба уха</Russian>
+            <Russian>Оба вуха (Активна рація)</Russian>
             <Chinese>用雙耳收聽無線電</Chinese>
             <Chinesesimp>用双耳收听无线电</Chinesesimp>
             <Portuguese>Rádio Ambas Orelhas</Portuguese>
@@ -337,7 +337,7 @@
             <French>Radio oreille droite (radio active)</French>
             <Korean>오른쪽 이어폰</Korean>
             <Polish>Odsłuch tylko na prawym uchu</Polish>
-            <Russian>Радио правое ухо</Russian>
+            <Russian>Праве вухо (Активна рація)</Russian>
             <Chinese>用右耳收聽無線電</Chinese>
             <Chinesesimp>用右耳收听无线电</Chinesesimp>
             <Portuguese>Rádio Orelha Direita</Portuguese>
@@ -352,7 +352,7 @@
             <French>Alterner casque/haut-parleur</French>
             <Korean>헤드셋 전환 / 관전자 전환</Korean>
             <Polish>Zdejmij/załóż słuchawki. / Wł/wył widzów.</Polish>
-            <Russian>Переключить наушники/спектаторов</Russian>
+            <Russian>Переключити навушники/глядачів</Russian>
             <Chinese>切換耳機 / 切換觀戰</Chinese>
             <Chinesesimp>切换耳机 / 切换观战</Chinesesimp>
             <Portuguese>Alternar Fones/Espectadores</Portuguese>
@@ -361,7 +361,7 @@
             <English>Antenna Direction Toggle</English>
             <German>Antennenausrichtung wechseln</German>
             <Japanese>アンテナの方向切り替え</Japanese>
-            <Russian>Изменить направление антенны</Russian>
+            <Russian>Змінити напрямок антени</Russian>
             <Chinese>天線方向切換</Chinese>
             <French>Changer l'orientation de l'antenne</French>
         </Key>
@@ -369,7 +369,7 @@
             <English>Antenna straightened</English>
             <German>Antenne gerade</German>
             <Japanese>アンテナを直立に</Japanese>
-            <Russian>Антенна выпрямлена</Russian>
+            <Russian>Антена випрямлена</Russian>
             <Chinese>天線拉直</Chinese>
             <French>Antenne redressée</French>
         </Key>
@@ -377,7 +377,7 @@
             <English>Antenna bent</English>
             <German>Antenne gebogen</German>
             <Japanese>アンテナを折り曲げ</Japanese>
-            <Russian>Антенна согнута</Russian>
+            <Russian>Антена согнута</Russian>
             <Chinese>彎曲天線</Chinese>
             <French>Antenne courbée</French>
         </Key>
@@ -405,7 +405,7 @@
             <Czech>Režim plného duplexu vysílaček</Czech>
             <Korean>풀 양방향 통신</Korean>
             <Polish>Ustaw pełny duplex</Polish>
-            <Russian>Полный дуплекс раций</Russian>
+            <Russian>Полний дуплекс</Russian>
             <Chinese>全雙工無線電台</Chinese>
             <Chinesesimp>全双工无线电台</Chinesesimp>
             <Portuguese>Rádios Full Duplex</Portuguese>
@@ -420,7 +420,7 @@
             <Czech>Ignorovat orientaci antény</Czech>
             <Korean>안테나 방향 무시</Korean>
             <Polish>Ignoruj kierunek anteny</Polish>
-            <Russian>Игнорировать направление антенны</Russian>
+            <Russian>Ігнорувати напрямок антени</Russian>
             <Chinese>忽略天線方向</Chinese>
             <Chinesesimp>忽略天线方向</Chinesesimp>
             <Portuguese>Ignorar Direção da Antena</Portuguese>
@@ -430,7 +430,7 @@
             <English>Automatic Antenna Direction</English>
             <German>Automatische Antennenausrichtung</German>
             <Japanese>アンテナの方向自動</Japanese>
-            <Russian>Авто направление антенны</Russian>
+            <Russian>Автоматичний напрямок антени</Russian>
             <Chinese>自動調整天線方向</Chinese>
             <French>Orientation automatique de l'antenne</French>
         </Key>
@@ -443,7 +443,7 @@
             <Czech>Koeficient ztráty signálu způsobené terénem</Czech>
             <Korean>지형 방해 계수</Korean>
             <Polish>Wpływ ukształtowania terenu</Polish>
-            <Russian>Коэффициент потерь от местности</Russian>
+            <Russian>Коефіцієнт втрат від місцевості</Russian>
             <Chinese>地形干擾係數</Chinese>
             <Chinesesimp>地形干扰系数</Chinesesimp>
             <Portuguese>Coeficiente de perda do terreno (Sinal)</Portuguese>
@@ -458,7 +458,7 @@
             <Czech>Detekce hlasu hráčů AIčky</Czech>
             <Korean>AI 음성 감지</Korean>
             <Polish>AI wykrywa głos graczy</Polish>
-            <Russian>АИ обнаружение голоса</Russian>
+            <Russian>Виявлення голосу ботами</Russian>
             <Chinese>AI偵測玩家語音</Chinese>
             <Chinesesimp>AI侦测玩家语音</Chinesesimp>
             <Portuguese>Detecção de Voz de IA</Portuguese>
@@ -474,7 +474,7 @@
             <French>Régler sur l'oreille gauche</French>
             <Korean>왼쪽 귀로 설정</Korean>
             <Polish>Ustaw na lewe ucho</Polish>
-            <Russian>Назначить на левое ухо</Russian>
+            <Russian>На Ліве вухо</Russian>
             <Chinese>設置為左耳收聽</Chinese>
             <Chinesesimp>设置为左耳收听</Chinesesimp>
             <Portuguese>Definir Para Orelha Esquerda</Portuguese>
@@ -489,7 +489,7 @@
             <French>Régler sur les deux oreilles</French>
             <Korean>양쪽 귀로 설정</Korean>
             <Polish>Ustaw na oboje uszu</Polish>
-            <Russian>Назначить на оба уха</Russian>
+            <Russian>На Обидва вуха</Russian>
             <Chinese>設置為雙耳收聽</Chinese>
             <Chinesesimp>设置为双耳收听</Chinesesimp>
             <Portuguese>Definir Para Ambas Orelhas</Portuguese>
@@ -504,7 +504,7 @@
             <French>Régler sur l'oreille droite</French>
             <Korean>오른쪽 귀로 설정</Korean>
             <Polish>Ustaw na prawe ucho</Polish>
-            <Russian>Назначить на правое ухо</Russian>
+            <Russian>На Праве вухо</Russian>
             <Chinese>設置為右耳收聽</Chinese>
             <Chinesesimp>设置为右耳收听</Chinesesimp>
             <Portuguese>Definir Para Orelha Direita</Portuguese>
@@ -513,7 +513,7 @@
             <English>Headset Raised</English>
             <German>Headset aufgesetzt</German>
             <Japanese>ヘッドセットを装着しました</Japanese>
-            <Russian>Наушники были подняты</Russian>
+            <Russian>Навушники підняти</Russian>
             <Chinese>戴上耳機</Chinese>
             <Chinesesimp>戴上耳机</Chinesesimp>
             <Korean>헤드셋 착용</Korean>
@@ -527,7 +527,7 @@
             <English>Headset Lowered</English>
             <German>Headset abgesetzt</German>
             <Japanese>ヘッドセットを外しました</Japanese>
-            <Russian>Наушники были опущены</Russian>
+            <Russian>Навушники опущені</Russian>
             <Chinese>取下耳機</Chinese>
             <Chinesesimp>取下耳机</Chinesesimp>
             <Korean>헤드셋 벗기</Korean>
@@ -541,7 +541,7 @@
             <English>Show incoming transmissions</English>
             <German>Eingehende Funksprüche anzeigen</German>
             <Japanese>受信中の通信を表示</Japanese>
-            <Russian>Показывать входящие передачи</Russian>
+            <Russian>Показувати вхідні передачі</Russian>
             <Chinese>顯示接收中的通訊</Chinese>
             <French>Afficher les transmissions entrantes</French>
         </Key>
@@ -549,7 +549,7 @@
             <English>Show rack transmissions</English>
             <German>Funkverkehr von eingebauten Funkgeräten anzeigen</German>
             <Japanese>ラックの通信を表示</Japanese>
-            <Russian>Показывать передачи с раций на подставке</Russian>
+            <Russian>Показувати передачі з вбудованих рацій</Russian>
             <Chinese>顯示架上通訊</Chinese>
             <French>Afficher les transmissions du rack</French>
         </Key>
