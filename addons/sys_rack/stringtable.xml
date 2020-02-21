@@ -13,7 +13,7 @@
             <Italian>Monta</Italian>
             <Spanish>Montar</Spanish>
             <French>Monter</French>
-            <Russian>Установить</Russian>
+            <Russian>Змонтувати</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_unmountable">
             <English>Unmountable</English>
@@ -24,7 +24,7 @@
             <Spanish>No montable</Spanish>
             <French>Non montable</French>
             <German>Nicht installierbar</German>
-            <Russian>Нельзя установить</Russian>
+            <Russian>Не можна змонтувати</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_unmountRadio">
             <English>Unmount</English>
@@ -38,7 +38,7 @@
             <Italian>Smonta</Italian>
             <Spanish>Desmontar</Spanish>
             <French>Démonter</French>
-            <Russian>Снять</Russian>
+            <Russian>Демонтувати</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_mountedRadio">
             <English>Mounted (%1)</English>
@@ -52,7 +52,7 @@
             <Italian>Montata (%1)</Italian>
             <Spanish>Montada (%1)</Spanish>
             <French>Monté (%1)</French>
-            <Russian>Установлено (%1)</Russian>
+            <Russian>Змонтовано (%1)</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_stopUsingRadio">
             <English>Stop Using</English>
@@ -66,7 +66,7 @@
             <Italian>Termina uso</Italian>
             <Spanish>Deja de usar</Spanish>
             <French>Arrêter d'utiliser</French>
-            <Russian>Прекратить использование</Russian>
+            <Russian>Припинити використання</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_useRadio">
             <English>Use</English>
@@ -80,7 +80,7 @@
             <Italian>Usa</Italian>
             <Spanish>Usar</Spanish>
             <French>Utiliser</French>
-            <Russian>Использовать</Russian>
+            <Russian>Використати</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_unableUnmount">
             <English>Unable to unmount radio as you have no inventory space.</English>
@@ -94,7 +94,7 @@
             <Italian>Impossibile smontare radio. Inventario pieno.</Italian>
             <Spanish>Imposible desmontar la radio. Inventario lleno.</Spanish>
             <French>Impossible de démonter la radio, car vous n'avez pas assez d'espace dans l'inventaire.</French>
-            <Russian>Не вышло снять рацию - в инвентаре недостаточно места</Russian>
+            <Russian>Не вийшло демонтувати рацію - в інвентарі недостатньо місця</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_Racks">
             <English>Racks</English>
@@ -108,7 +108,7 @@
             <Italian>Racks</Italian>
             <Spanish>Racks</Spanish>
             <French>Racks</French>
-            <Russian>Подставки</Russian>
+            <Russian>Стійки</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_dash">
             <English>Dash</English>
@@ -147,7 +147,7 @@
             <Italian>Cruscotto Basso</Italian>
             <Spanish>Panel inferior</Spanish>
             <French>Tableau inférieur</French>
-            <Russian>Нижняя панель</Russian>
+            <Russian>Нижня панель</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_dashLowerShort">
             <English>D.Low</English>
@@ -158,7 +158,7 @@
             <Spanish>P.Inf</Spanish>
             <French>T. inf</French>
             <German>Unten</German>
-            <Russian>Н-я панель</Russian>
+            <Russian>Ниж. пан.</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_dashUpper">
             <English>Dash Upper</English>
@@ -172,7 +172,7 @@
             <Italian>Cruscotto Alto</Italian>
             <Spanish>Panel superior</Spanish>
             <French>Tableau supérieur</French>
-            <Russian>Верхняя панель</Russian>
+            <Russian>Верхня панель</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_dashUpperShort">
             <English>D.Up</English>
@@ -183,7 +183,7 @@
             <Spanish>P.Sup</Spanish>
             <French>T. sup</French>
             <German>Oben</German>
-            <Russian>В-я панель</Russian>
+            <Russian>Ниж. пан.</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_useAllRacks">
             <English>Use All</English>
@@ -193,7 +193,7 @@
             <Spanish>Usar todas</Spanish>
             <French>Tout utiliser</French>
             <German>Verwende alle</German>
-            <Russian>Использовать все</Russian>
+            <Russian>Використовувати всі</Russian>
         </Key>
         <Key ID="STR_ACRE_sys_rack_stopUsingAllRacks">
             <English>Stop Using All</English>
@@ -203,7 +203,7 @@
             <Spanish>Dejar de usar todas</Spanish>
             <French>Arrêter de tout utiliser</French>
             <German>Nicht mehr alle verwenden</German>
-            <Russian>Прекратить использовать все</Russian>
+            <Russian>Перестати використовувати всі</Russian>
         </Key>
     </Package>
 </Project>
